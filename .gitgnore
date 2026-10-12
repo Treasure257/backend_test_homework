@@ -1,0 +1,12 @@
+*.txt
+build/
+/config.json
+*.tmp
+
+
+venv/
+_pycache_/
+*.log
+.vscode/
+.idea/
+.env
